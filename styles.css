@@ -8,7 +8,11 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background: url('https://source.unsplash.com/random/?galaxy') no-repeat center center fixed;
+  background-image: url('images/photo-1530378048420-7d9a2ed3ed72.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+
   background-size: cover;
   height: 100vh;
   display: flex;
